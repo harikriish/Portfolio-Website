@@ -845,6 +845,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     bottom:0;
 
 }
+#subject{
+    width: 46%;
+}
+#message{
+    width: 46%;
+}
 
 #scroll-Top  .return-to-top i{
     position: relative;
